@@ -1,2 +1,2 @@
 # JavaBankApp
-A simple banking app programmed in the Java language
+A banking app programmed in the Java language
